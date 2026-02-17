@@ -55,6 +55,26 @@
   transition-duration: 0.3s;
 }
 
+.bg-header-orange-button-light {
+  --tw-bg-opacity: 1;
+  background-color: rgb(242 200 157 / var(--tw-bg-opacity));
+}
+
+.bg-header-orange-button-light:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(245 187 130 / var(--tw-bg-opacity));
+}
+
+.bg-header-orange-button-dark {
+  --tw-bg-opacity: 1;
+  background-color: rgb(212 131 55 / var(--tw-bg-opacity));
+}
+
+.bg-header-orange-button-dark:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(204 138 75 / var(--tw-bg-opacity));
+}
+
 .turn-white-hover {
   color: rgb(62, 62, 62);
 }

@@ -95,7 +95,8 @@ let elements = [
   new Element(["main-card"], "main-card-light", "main-card-dark"),
   new Element(["hover-button"], "hover-button-light", "hover-button-dark"),
   new Element(["pet-name"], "text-light-mode", "text-dark-mode"), // New class for pet name
-  new Element(["text_4"], "text-light-mode", "text-dark-mode") // Apply changes to list items and icons
+  new Element(["text_4"], "text-light-mode", "text-dark-mode"), // Apply changes to list items and icons
+  new Element(["button-color"], "bg-header-orange-button-light", "bg-header-orange-button-dark")
 ];
 
 function toggleThemeForAllElements() {
